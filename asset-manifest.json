@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/real-advice-react-app/static/css/main.a256100a.css",
-    "main.js": "/github.io/real-advice-react-app/static/js/main.a7258851.js",
-    "static/js/787.28cb0dcd.chunk.js": "/github.io/real-advice-react-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/city.jpg": "/github.io/real-advice-react-app/static/media/city.66512aa4c316df20b752.jpg",
-    "index.html": "/github.io/real-advice-react-app/index.html",
-    "main.a256100a.css.map": "/github.io/real-advice-react-app/static/css/main.a256100a.css.map",
-    "main.a7258851.js.map": "/github.io/real-advice-react-app/static/js/main.a7258851.js.map",
-    "787.28cb0dcd.chunk.js.map": "/github.io/real-advice-react-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/real-advice-react-app/static/css/main.c220cce0.css",
+    "main.js": "/real-advice-react-app/static/js/main.948aec68.js",
+    "static/js/787.28cb0dcd.chunk.js": "/real-advice-react-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/city.jpg": "/real-advice-react-app/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/real-advice-react-app/index.html",
+    "main.c220cce0.css.map": "/real-advice-react-app/static/css/main.c220cce0.css.map",
+    "main.948aec68.js.map": "/real-advice-react-app/static/js/main.948aec68.js.map",
+    "787.28cb0dcd.chunk.js.map": "/real-advice-react-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a256100a.css",
-    "static/js/main.a7258851.js"
+    "static/css/main.c220cce0.css",
+    "static/js/main.948aec68.js"
   ]
 }
