@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  background:  linear-gradient(rgba(25, 25, 25, 0.7),rgba(18, 18, 18, 0.5)) ,url(./images/city.jpg);
+  box-sizing: border-box;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card{
+  padding: 50px;
+display: flex;
+flex-direction: column;
+  border-radius: 25px;
+ 
+    box-shadow: 10px 10px;
+    background-color: whitesmoke;
+}
+.button {
+  position: relative;
+  outline: none;
+  text-decoration: none;
+width: fit-content;
+  border-radius: 20px;
+  margin: auto;
+  padding: 5px;
+font-size: 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  color: #164ca7;
+  opacity: 1;
+  background-color: #ffffff;
+  border: 1px solid rgba(22, 76, 167, 0.6);
+}
+.button:hover{
+  transform: scale(1.2) ;
+}
+
+
+
+
+
+
+
+
+
+
